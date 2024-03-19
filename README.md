@@ -31,3 +31,13 @@ _Asi tambien se puede poner en cursiva_
 3. Elemento ordenado
 - [ ] Texto sin marcar
 - [X] Texto marcado
+
+:+1:
+
+EJEMPLO DE BLOQUE DE CODIGO
+```bash
+npm install
+```
+```javascript
+holamundo("print");
+```
