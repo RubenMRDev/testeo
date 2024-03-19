@@ -29,3 +29,5 @@ _Asi tambien se puede poner en cursiva_
 1. Elemento ordenado
 2. Elemento ordenado
 3. Elemento ordenado
+- [ ] Texto sin marcar
+- [X] Texto marcado
