@@ -9,4 +9,13 @@ Ejemplo de titulos
 
 EJEMPLO DE CURSIVA, NEGRITA Y TACHADO
 
-~~Virgula~~
+~~Esto es para tachar un texto~~
+
+*Esto es para ponerlo en cursiva*
+
+_Asi tambien se puede poner en cursiva_
+
+**Asi se pone un texto en negrita**
+
+
+**~~Ejemplo~~ de *texto* combinado**
