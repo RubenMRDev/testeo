@@ -1,4 +1,4 @@
-Ejemplo de titulos
+wrhwrhhrrrrrrrrrEjemplo de titulos
 
 # Titulo 1
 ## Titulo 2
@@ -19,3 +19,5 @@ _Asi tambien se puede poner en cursiva_
 
 
 **~~Ejemplo~~ de *texto* combinado**
+
+\*Esto es una frase con dos asteriscos\*
