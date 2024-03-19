@@ -21,3 +21,11 @@ _Asi tambien se puede poner en cursiva_
 **~~Ejemplo~~ de *texto* combinado**
 
 \*Esto es una frase con dos asteriscos\*
+
+- Elemento 1
+- Elemento 2
+- Elemento 3
+
+1. Elemento ordenado
+2. Elemento ordenado
+3. Elemento ordenado
